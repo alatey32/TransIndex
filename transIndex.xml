@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0"?>
 <transIndex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" formatVersion="1">
+	<partition id="C003-0A78-120B-72B8" fileSystem="NTFS" />
 	<operationSystems>		
 		<operationSystem formatVersion="1" id="111111111111111111111111111111111111111111111111111111111111111" familyName="Win32NT" name="Microsoft Windows NT 6.2.9200.0" version="6.2.9200.0" systemPath="C:\Windows\system32" />		
 	</operationSystems>
